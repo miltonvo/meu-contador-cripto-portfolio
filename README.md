@@ -1,58 +1,58 @@
-# Meu Contador Cripto 🚀
+# My Crypto Counter 🚀
 
-**Meu Contador Cripto** é uma aplicação inovadora para gerenciamento e análise de operações com criptomoedas, oferecendo funcionalidades avançadas para facilitar a vida dos investidores.
-
----
-
-## Funcionalidades ✨
-
-- **Importação de Dados** 📥: Suporte para importação de operações via planilhas e API.
-- **Geração de Relatórios** 📊: Criação de relatórios anuais e de câmbio estrangeiro.
-- **Integração com Exchanges** 🔗: Conexão com diversas exchanges para sincronização de dados.
-- **Monitoramento em Tempo Real** ⏱️: Logs e monitoramento de operações e serviços.
+**My Crypto Counter** is an innovative application for managing and analyzing cryptocurrency operations, offering advanced features to facilitate investors' lives.
 
 ---
 
-## Tecnologias Utilizadas 🛠️
+## Features ✨
+
+- **Data Import** 📥: Support for importing operations via spreadsheets and API.
+- **Report Generation** 📊: Creation of annual and foreign exchange reports.
+- **Exchange Integration** 🔗: Connection with various exchanges for data synchronization.
+- **Real-Time Monitoring** ⏱️: Logs and monitoring of operations and services.
+
+---
+
+## Technologies Used 🛠️
 
 ### Backend
-- **Python** 🐍: Linguagem principal para desenvolvimento do backend.
-- **Django** 🌐: Framework web para construção de APIs e gerenciamento de dados.
-- **Celery** 🥬: Para tarefas assíncronas e agendamento de jobs.
-- **PostgreSQL** 🗄️: Banco de dados relacional para armazenamento de dados.
-- **Redis** 🔴: Utilizado como broker para o Celery.
-- **OpenPyXL** 📑: Manipulação de arquivos Excel para geração de relatórios.
-- **Nginx** 🌐: Servidor web para servir a aplicação e arquivos estáticos.
-- **Gunicorn** 🦄: Servidor WSGI para aplicações Python.
+- **Python** 🐍: Main language for backend development.
+- **Django** 🌐: Web framework for building APIs and data management.
+- **Celery** 🥬: For asynchronous tasks and job scheduling.
+- **PostgreSQL** 🗄️: Relational database for data storage.
+- **Redis** 🔴: Used as a broker for Celery.
+- **OpenPyXL** 📑: Excel file manipulation for report generation.
+- **Nginx** 🌐: Web server to serve the application and static files.
+- **Gunicorn** 🦄: WSGI server for Python applications.
 
 ### Frontend
-- **Vue.js** 🖼️: Framework JavaScript progressivo para construção de interfaces de usuário interativas.
-- **Vuex** 📦: Gerenciamento de estado centralizado para aplicações Vue.js.
-- **Vue Router** 🧭: Roteamento para navegação entre páginas em aplicações Vue.js.
+- **Vue.js** 🖼️: Progressive JavaScript framework for building interactive user interfaces.
+- **Vuex** 📦: Centralized state management for Vue.js applications.
+- **Vue Router** 🧭: Routing for navigation between pages in Vue.js applications.
 
 ### DevOps
-- **Ubuntu** 🐧: Sistema operacional utilizado para o ambiente de produção.
-- **Docker** 🐳: Containerização para garantir consistência entre ambientes de desenvolvimento e produção.
-- **Google Cloud Platform (GCP)** ☁️: Plataforma de nuvem utilizada para hospedar a aplicação.
-- **GitHub Actions** ⚙️: Integração contínua e entrega contínua (CI/CD) para automação de testes e deploys.
+- **Ubuntu** 🐧: Operating system used for the production environment.
+- **Docker** 🐳: Containerization to ensure consistency between development and production environments.
+- **Google Cloud Platform (GCP)** ☁️: Cloud platform used to host the application.
+- **GitHub Actions** ⚙️: Continuous integration and continuous delivery (CI/CD) for automating tests and deployments.
 
 ---
 
-## Autores 👥
+## Authors 👥
 
-- **@miltonvo** 👨‍💻: Principal desenvolvedor e responsável pela manutenção do projeto.
+- **@miltonvo** 👨‍💻: Main developer and responsible for project maintenance.
 
 ---
 
-## Demonstração 📺
+## Demonstration 📺
 
-| ![Imagem 1](assets/1.png) | ![Imagem 2](assets/2.png) | ![Imagem 3](assets/3.png) |
-|:-------------------------:|:-------------------------:|:-------------------------:|
-| ![Imagem 4](assets/4.png) | ![Imagem 5](assets/5.png) | ![Imagem 6](assets/6.png) |
-| ![Imagem 7](assets/7.png) | ![Imagem 8](assets/8.png) | ![Imagem 9](assets/9.png) |
+| ![Image 1](assets/1.png) | ![Image 2](assets/2.png) | ![Image 3](assets/3.png) |
+|:------------------------:|:------------------------:|:------------------------:|
+| ![Image 4](assets/4.png) | ![Image 5](assets/5.png) | ![Image 6](assets/6.png) |
+| ![Image 7](assets/7.png) | ![Image 8](assets/8.png) | ![Image 9](assets/9.png) |
 
-### Vídeo Demonstração 🎥
+### Video Demonstration 🎥
 
-🔗 **Conteúdo clicável abaixo** ⬇️
+🔗 **Clickable content below** ⬇️
 
-[![Assista ao vídeo](assets/thumb.jpg)](https://youtu.be/isZ78dCjUoM)
+[![Watch the video](assets/thumb.jpg)](https://youtu.be/isZ78dCjUoM)�
