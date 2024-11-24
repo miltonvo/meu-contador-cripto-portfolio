@@ -15,6 +15,7 @@
 
 ## Tecnologias Utilizadas 🛠️
 
+### Backend
 - **Python** 🐍: Linguagem principal para desenvolvimento do backend.
 - **Django** 🌐: Framework web para construção de APIs e gerenciamento de dados.
 - **Celery** 🥬: Para tarefas assíncronas e agendamento de jobs.
@@ -23,6 +24,11 @@
 - **OpenPyXL** 📑: Manipulação de arquivos Excel para geração de relatórios.
 - **Nginx** 🌐: Servidor web para servir a aplicação e arquivos estáticos.
 - **Gunicorn** 🦄: Servidor WSGI para aplicações Python.
+
+### Frontend
+- **Vue.js** 🖼️: Framework JavaScript progressivo para construção de interfaces de usuário interativas.
+- **Vuex** 📦: Gerenciamento de estado centralizado para aplicações Vue.js.
+- **Vue Router** 🧭: Roteamento para navegação entre páginas em aplicações Vue.js.
 
 ---
 
