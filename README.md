@@ -55,4 +55,4 @@
 
 🔗 **Clickable content below** ⬇️
 
-[![Watch the video](assets/thumb.jpg)](https://youtu.be/isZ78dCjUoM)�
+[![Watch the video](assets/thumb.jpg)](https://youtu.be/isZ78dCjUoM)
