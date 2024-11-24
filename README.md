@@ -53,4 +53,4 @@
 
 ### Vídeo Demonstração 🎥
 
-[![Assista ao vídeo no Vimeo](assets/thumb.png)](https://vimeo.com/1032858125?share=copy#t=0)
+[![Assista ao vídeo no Vimeo](assets/thumb.jpg)](https://vimeo.com/1032858125?share=copy#t=0)
