@@ -30,6 +30,12 @@
 - **Vuex** 📦: Gerenciamento de estado centralizado para aplicações Vue.js.
 - **Vue Router** 🧭: Roteamento para navegação entre páginas em aplicações Vue.js.
 
+### DevOps
+- **Ubuntu** 🐧: Sistema operacional utilizado para o ambiente de produção.
+- **Docker** 🐳: Containerização para garantir consistência entre ambientes de desenvolvimento e produção.
+- **Google Cloud Platform (GCP)** ☁️: Plataforma de nuvem utilizada para hospedar a aplicação.
+- **GitHub Actions** ⚙️: Integração contínua e entrega contínua (CI/CD) para automação de testes e deploys.
+
 ---
 
 ## Autores 👥
@@ -40,7 +46,9 @@
 
 ## Demonstração 🎥
 
-![Demonstração 12](assets/demonstracao1.png)
-![Demonstração 2](link-para-imagem2)
+| ![Imagem 1](assets/1.png) | ![Imagem 2](assets/2.png) | ![Imagem 3](assets/3.png) |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+| ![Imagem 4](assets/4.png) | ![Imagem 5](assets/5.png) | ![Imagem 6](assets/6.png) |
+| ![Imagem 7](assets/7.png) | ![Imagem 8](assets/8.png) | ![Imagem 9](assets/9.png) |
 
 [![Video Demonstração](link-para-thumbnail-video)](link-para-video)
