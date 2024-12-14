@@ -1,3 +1,8 @@
+<div align="right">
+  <!-- Idiomas: -->
+  <a title="Português" href="README_ptbr.md">🇧🇷 Português</a>
+</div>
+
 # My Crypto Counter 🚀
 
 **My Crypto Counter** is an innovative application for managing and analyzing cryptocurrency operations, offering advanced features to facilitate investors' lives.
