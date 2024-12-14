@@ -1,3 +1,8 @@
+<div align="right">
+  <!-- Idiomas: -->
+  <a title="English" href="README.md">🇺🇸 English</a>
+</div>
+
 # Meu Contador Cripto 🚀
 
 **Meu Contador Cripto** é uma aplicação inovadora para gerenciamento e análise de operações com criptomoedas, oferecendo funcionalidades avançadas para facilitar a vida dos investidores.
