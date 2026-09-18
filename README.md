@@ -32,7 +32,7 @@
 
 ### Frontend
 - **Vue.js** 🖼️: Progressive JavaScript framework for building interactive user interfaces.
-- **Vuex** 📦: Centralized state management for Vue.js applications.
+- **Vuestic UI + Pinia** 📦: admin UI components and state management for Vue 3.
 - **Vue Router** 🧭: Routing for navigation between pages in Vue.js applications.
 
 ### DevOps
@@ -51,13 +51,19 @@
 
 ## Demonstration 📺
 
-| ![Image 1](assets/1.png) | ![Image 2](assets/2.png) | ![Image 3](assets/3.png) |
-|:------------------------:|:------------------------:|:------------------------:|
-| ![Image 4](assets/4.png) | ![Image 5](assets/5.png) | ![Image 6](assets/6.png) |
-| ![Image 7](assets/7.png) | ![Image 8](assets/8.png) | ![Image 9](assets/9.png) |
+| ![Dashboard](assets/1.png) | ![Portfolio Overview](assets/2.png) | ![Operations List](assets/3.png) |
+| *Dashboard* | *Portfolio Overview* | *Operations List* |
+| ![Report Generation](assets/4.png) | ![Exchange Integration](assets/5.png) | ![Data Import](assets/6.png) |
+| *Report Generation* | *Exchange Integration* | *Data Import* |
+| ![Tax Reports](assets/7.png) | ![Settings](assets/8.png) | ![Monitoring Panel](assets/9.png) |
+| *Tax Reports* | *Settings* | *Monitoring Panel* |
 
 ### Video Demonstration 🎥
 
 🔗 **Clickable content below** ⬇️
 
 [![Watch the video](assets/thumb.jpg)](https://youtu.be/isZ78dCjUoM)
+
+---
+
+📄 Full case study on the MV Dev Solutions website: [https://mvdevsolutions.com.br/en/projects/my-crypto-counter-cryptocurrency-portfolio-management](https://mvdevsolutions.com.br/en/projects/my-crypto-counter-cryptocurrency-portfolio-management)

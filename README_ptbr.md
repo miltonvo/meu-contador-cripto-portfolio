@@ -32,7 +32,7 @@
 
 ### Frontend
 - **Vue.js** 🖼️: Framework JavaScript progressivo para construção de interfaces de usuário interativas.
-- **Vuex** 📦: Gerenciamento de estado centralizado para aplicações Vue.js.
+- **Vuestic UI + Pinia** 📦: componentes de interface admin e gerenciamento de estado para Vue 3.
 - **Vue Router** 🧭: Roteamento para navegação entre páginas em aplicações Vue.js.
 
 ### DevOps
@@ -61,3 +61,7 @@
 🔗 **Conteúdo clicável abaixo** ⬇️
 
 [![Assista ao vídeo](assets/thumb.jpg)](https://youtu.be/isZ78dCjUoM)
+
+---
+
+📄 Case completo no site da MV Dev Solutions: [https://mvdevsolutions.com.br/projetos/meu-contador-crypto](https://mvdevsolutions.com.br/projetos/meu-contador-crypto)
